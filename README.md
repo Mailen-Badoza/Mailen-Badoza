@@ -1,6 +1,6 @@
 # Hola! Soy Mailen
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/politologa-mailen-badoza/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/politologa-mailen-badoza/) 
 
 # 💫 Sobre Mi
 Licenciada en Ciencia Política y Profesora de Enseñanza Media y Superior en Ciencia Política por la Universidad de Buenos Aires. Durante mi recorrido me he centrado en la producción de análisis políticos así como también en el ámbito de la investigación. <br><br>Apasionada por comprender las complejidades del entorno político y social, actualmente estoy ampliando mi horizonte académico con enfoque en el análisis de datos. Mi objetivo es integrar estas nuevas habilidades para potenciar mis capacidades analíticas y proporcionar soluciones más eficientes a los desafíos políticos contemporáneos.<br><br>A través de mi formación en Ciencia Política y mi incursión en la ciencia de datos, aspiro a ofrecer un enfoque integral a la toma de decisiones políticas, aprovechando la potencia de los datos.
